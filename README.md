@@ -15,7 +15,8 @@
 
 The name's **Reece Santos**, and I...<br>
 🌱 am almost done taking *Bachelor of Science in Information Technology at NU Baliwag*<br>
-💼 have interned and developed a web-application for [*Pacific Roadlink Logistics Inc*](https://cy.truckit.online/).<br>
+💼 have interned and developed a web-application for [*Pacific Roadlink Logistics Inc.*](https://cy.truckit.online/)<br>
+💼 am continuing my internship in [*Metacom RPO*](https://metacomrpo.com/)<br>
 📜 have been certified in [*Scientific Computing with Python at freeCodeCamp*](https://www.freecodecamp.org/certification/reecesantos/scientific-computing-with-python-v7)<br>
 🎨 was a *Chief Creatives Officer* for [Google Developer Students Club - NU Baliwag](https://www.facebook.com/GDGoCNUBaliwag) *(2023-2024)*
 
