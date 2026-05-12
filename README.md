@@ -19,7 +19,7 @@ The name's **Reece Santos**, and I...<br>
 📜 have been certified in [*Scientific Computing with Python at freeCodeCamp*](https://www.freecodecamp.org/certification/reecesantos/scientific-computing-with-python-v7)<br>
 🎨 was a *Chief Creatives Officer* for [Google Developer Students Club - NU Baliwag](https://www.facebook.com/GDGoCNUBaliwag) *(2023-2024)*
 
-## 🧰 here's my toolbox
+## 🧰 check out my arsenal:
 ![Python](https://img.shields.io/badge/-Python-%232c3e50?style=for-the-badge&logo=python)
 ![HTML5](https://img.shields.io/badge/-HTML5-%232c3e50?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-%232c3e50?style=for-the-badge&logo=CSS3)
